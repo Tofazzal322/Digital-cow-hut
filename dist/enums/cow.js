@@ -12,7 +12,7 @@ var CowLocation;
     CowLocation["Comilla"] = "Comilla";
     CowLocation["Rangpur"] = "Rangpur";
     CowLocation["Mymensingh"] = "Mymensingh";
-})(CowLocation = exports.CowLocation || (exports.CowLocation = {}));
+})(CowLocation || (exports.CowLocation = CowLocation = {}));
 var CowBreed;
 (function (CowBreed) {
     CowBreed["Brahman"] = "Brahman";
@@ -22,15 +22,15 @@ var CowBreed;
     CowBreed["Indigenous"] = "Indigenous";
     CowBreed["Tharparkar"] = "Tharparkar";
     CowBreed["Kankrej"] = "Kankrej";
-})(CowBreed = exports.CowBreed || (exports.CowBreed = {}));
+})(CowBreed || (exports.CowBreed = CowBreed = {}));
 var CowLabel;
 (function (CowLabel) {
     CowLabel["ForSale"] = "for sale";
     CowLabel["SoldOut"] = "sold out";
-})(CowLabel = exports.CowLabel || (exports.CowLabel = {}));
+})(CowLabel || (exports.CowLabel = CowLabel = {}));
 var CowCategory;
 (function (CowCategory) {
     CowCategory["Dairy"] = "Dairy";
     CowCategory["Beef"] = "Beef";
     CowCategory["DualPurpose"] = "Dual Purpose";
-})(CowCategory = exports.CowCategory || (exports.CowCategory = {}));
+})(CowCategory || (exports.CowCategory = CowCategory = {}));
