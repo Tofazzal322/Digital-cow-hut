@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\A.NextLevel\\Digital-cow-hut-backend-assignment-Tofazzal322-main\\logs\\winston\\errors\\.e10e25b127ec9094d9521c7aa71ca4b25c66d355-audit.json",
+    "files": [
+        {
+            "date": 1690913834874,
+            "name": "E:\\A.NextLevel\\Digital-cow-hut-backend-assignment-Tofazzal322-main\\logs\\winston\\errors\\phu-2023-01-08-22-error.log",
+            "hash": "45b892bd5dbaf8f9ca9356cf8bd4e1af48ed219d5f7d31978f917af573dbe1b7"
+        }
+    ],
+    "hashType": "sha256"
+}
