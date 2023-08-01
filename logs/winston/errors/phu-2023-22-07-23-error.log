@@ -1,0 +1,24 @@
+Sat Jul 22 2023 23:6:2 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:6:54 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:10:25 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:10:44 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:18:2 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:18:38 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00NaN" }
+Sat Jul 22 2023 23:19:35 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00NaN" }
+Sat Jul 22 2023 23:22:1 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00NaN" }
+Sat Jul 22 2023 23:22:18 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00NaN" }
+Sat Jul 22 2023 23:22:32 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00NaN" }
+Sat Jul 22 2023 23:22:52 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00001" }
+Sat Jul 22 2023 23:23:24 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:23:46 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00001" }
+Sat Jul 22 2023 23:24:14 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00001" }
+Sat Jul 22 2023 23:24:45 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: id_1 dup key: { id: "undefinedundefined00001" }
+Sat Jul 22 2023 23:26:5 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:30:18 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 23:37:14 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: contactNo_1 dup key: { contactNo: "+1 (555) 123-4567" }
+Sat Jul 22 2023 23:37:39 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: email_1 dup key: { email: "john.doe@example.com" }
+Sat Jul 22 2023 23:38:21 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Student validation failed: academicFaculty: Cast to ObjectId failed for value "617c2f4e08bcb870509be105hfg" (type string) at path "academicFaculty" because of "BSONError", academicDepartment: Cast to ObjectId failed for value "617c2f4e08bcb870509be106fg" (type string) at path "academicDepartment" because of "BSONError", academicSemester: Cast to ObjectId failed for value "617c2f4e08bcb870509be107fgg" (type string) at path "academicSemester" because of "BSONError"
+Sat Jul 22 2023 23:38:47 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Student validation failed: academicFaculty: Cast to ObjectId failed for value "617c2f4e08bcb870509be105h" (type string) at path "academicFaculty" because of "BSONError", academicSemester: Cast to ObjectId failed for value "617c2f4e08bcb870509be107f" (type string) at path "academicSemester" because of "BSONError"
+Sat Jul 22 2023 23:45:12 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: contactNo_1 dup key: { contactNo: "+1 (555) 123-fg4545" }
+Sat Jul 22 2023 23:45:23 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ E11000 duplicate key error collection: digital-cow-hut.students index: email_1 dup key: { email: "john.ghdoe@example.com" }
+Sat Jul 22 2023 23:52:7 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'code')

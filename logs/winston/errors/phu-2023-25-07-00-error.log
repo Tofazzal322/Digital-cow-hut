@@ -1,0 +1,19 @@
+Tue Jul 25 2023 0:12:20 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [],
+    "message": "Required"
+  }
+]
+Tue Jul 25 2023 0:16:32 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token } in JSON at position 204
+Tue Jul 25 2023 0:34:8 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [],
+    "message": "Required"
+  }
+]

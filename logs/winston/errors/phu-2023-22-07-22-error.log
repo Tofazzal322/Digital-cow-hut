@@ -1,0 +1,101 @@
+Sat Jul 22 2023 22:31:49 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "academicSemester"
+    ],
+    "message": "Academic semester is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "academicDepartment"
+    ],
+    "message": "Academic department is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "academicFaculty"
+    ],
+    "message": "Academic faculty is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "guardian",
+      "fatherOccupation"
+    ],
+    "message": "Father occupation is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "guardian",
+      "motherOccupation"
+    ],
+    "message": "Mother occupation is required"
+  }
+]
+Sat Jul 22 2023 22:35:50 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      "body"
+    ],
+    "message": "Expected object, received array"
+  }
+]
+Sat Jul 22 2023 22:36:2 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token , in JSON at position 1150
+Sat Jul 22 2023 22:36:24 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Unexpected token { in JSON at position 5
+Sat Jul 22 2023 22:37:21 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "array",
+    "path": [
+      "body"
+    ],
+    "message": "Expected object, received array"
+  }
+]
+Sat Jul 22 2023 22:41:18 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student"
+    ],
+    "message": "Required"
+  }
+]
+Sat Jul 22 2023 22:42:2 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 22:45:25 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 22:46:5 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 22:46:29 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 22:51:22 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'year')
+Sat Jul 22 2023 22:51:47 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of null (reading 'code')

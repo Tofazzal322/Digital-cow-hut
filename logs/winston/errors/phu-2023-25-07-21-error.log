@@ -1,0 +1,18 @@
+Tue Jul 25 2023 21:28:36 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "received": "Da",
+    "code": "invalid_enum_value",
+    "options": [
+      "Dairy",
+      "Beef",
+      "Dual Purpose"
+    ],
+    "path": [
+      "body",
+      "category"
+    ],
+    "message": "Invalid enum value. Expected 'Dairy' | 'Beef' | 'Dual Purpose', received 'Da'"
+  }
+]
+Tue Jul 25 2023 21:41:13 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ (0 , seller_service_1.createSeller) is not a function
+Tue Jul 25 2023 21:46:10 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ (0 , seller_service_1.createSeller) is not a function

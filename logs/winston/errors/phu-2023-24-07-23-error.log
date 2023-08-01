@@ -1,0 +1,191 @@
+Mon Jul 24 2023 23:1:58 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body"
+    ],
+    "message": "Required"
+  }
+]
+Mon Jul 24 2023 23:4:33 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body"
+    ],
+    "message": "Required"
+  }
+]
+Mon Jul 24 2023 23:4:57 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "received": "Farm A",
+    "code": "invalid_enum_value",
+    "options": [
+      "Dhaka",
+      "Chattogram",
+      "Barishal",
+      "Rajshahi",
+      "Sylhet",
+      "Comilla",
+      "Rangpur",
+      "Mymensingh"
+    ],
+    "path": [
+      "body",
+      "location"
+    ],
+    "message": "Invalid enum value. Expected 'Dhaka' | 'Chattogram' | 'Barishal' | 'Rajshahi' | 'Sylhet' | 'Comilla' | 'Rangpur' | 'Mymensingh', received 'Farm A'"
+  },
+  {
+    "received": "Holstein",
+    "code": "invalid_enum_value",
+    "options": [
+      "Brahman",
+      "Nellore",
+      "Sahiwal",
+      "Gir",
+      "Indigenous",
+      "Tharparkar",
+      "Kankrej"
+    ],
+    "path": [
+      "body",
+      "breed"
+    ],
+    "message": "Invalid enum value. Expected 'Brahman' | 'Nellore' | 'Sahiwal' | 'Gir' | 'Indigenous' | 'Tharparkar' | 'Kankrej', received 'Holstein'"
+  },
+  {
+    "received": "Dairy",
+    "code": "invalid_enum_value",
+    "options": [
+      "for sale",
+      "sold out"
+    ],
+    "path": [
+      "body",
+      "label"
+    ],
+    "message": "Invalid enum value. Expected 'for sale' | 'sold out', received 'Dairy'"
+  },
+  {
+    "received": "Young",
+    "code": "invalid_enum_value",
+    "options": [
+      "Dairy",
+      "Beef",
+      "Dual Purpose"
+    ],
+    "path": [
+      "body",
+      "category"
+    ],
+    "message": "Invalid enum value. Expected 'Dairy' | 'Beef' | 'Dual Purpose', received 'Young'"
+  }
+]
+Mon Jul 24 2023 23:6:9 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "received": "For sale",
+    "code": "invalid_enum_value",
+    "options": [
+      "for sale",
+      "sold out"
+    ],
+    "path": [
+      "body",
+      "label"
+    ],
+    "message": "Invalid enum value. Expected 'for sale' | 'sold out', received 'For sale'"
+  }
+]
+Mon Jul 24 2023 23:6:29 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cow validation failed: name: Cast to string failed for value "{ firstName: 'Bessie', lastName: 'Smith' }" (type Object) at path "name"
+Mon Jul 24 2023 23:7:29 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "string",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Expected object, received string"
+  }
+]
+Mon Jul 24 2023 23:9:8 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cow validation failed: name: Cast to string failed for value "{ firstName: 'Bamar', lastName: 'Smith' }" (type Object) at path "name"
+Mon Jul 24 2023 23:10:20 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cow validation failed: name: Cast to string failed for value "{ firstName: 'Bamar', lastName: 'Smith' }" (type Object) at path "name"
+Mon Jul 24 2023 23:12:46 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "string",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Expected object, received string"
+  }
+]
+Mon Jul 24 2023 23:13:33 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Required"
+  }
+]
+Mon Jul 24 2023 23:14:20 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "string",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Expected object, received string"
+  }
+]
+Mon Jul 24 2023 23:14:40 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "number",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Expected object, received number"
+  }
+]
+Mon Jul 24 2023 23:14:50 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "name"
+    ],
+    "message": "Required"
+  }
+]
+Mon Jul 24 2023 23:26:4 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ User validation failed: address: Path `address` is required., phoneNumber: Path `phoneNumber` is required., name.lastName: Path `name.lastName` is required., name.firstName: Path `name.firstName` is required., role: Path `role` is required., password: Path `password` is required.
+Mon Jul 24 2023 23:29:30 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body"
+    ],
+    "message": "Required"
+  }
+]
+Mon Jul 24 2023 23:31:35 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ User validation failed: address: Path `address` is required., phoneNumber: Path `phoneNumber` is required., name.lastName: Path `name.lastName` is required., name.firstName: Path `name.firstName` is required., role: Path `role` is required., password: Path `password` is required.
