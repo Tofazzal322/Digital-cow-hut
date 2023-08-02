@@ -1,0 +1,2 @@
+Wed Aug 02 2023 19:26:3 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cast to ObjectId failed for value "get-cows" (type string) at path "_id" for model "Cow"
+Wed Aug 02 2023 19:26:8 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cast to ObjectId failed for value "get-cow" (type string) at path "_id" for model "Cow"
